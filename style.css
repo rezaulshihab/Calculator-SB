@@ -89,5 +89,7 @@ button:hover{
   width: 100vh;
   border-radius: 0;
   border: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
   }
 }
